@@ -42,22 +42,22 @@ msgid "Copy fro&m Right"
 msgstr "从右侧复制(&M)"
 
 msgid "Copy Selected Line(s) to Right"
-msgstr ""
+msgstr "复制选中行到右侧"
 
 msgid "Copy Selected Line(s) to Left"
-msgstr ""
+msgstr "复制选中行到左侧"
 
 msgid "Copy Selected Line(s) from Left"
-msgstr ""
+msgstr "从左侧复制选中行"
 
 msgid "Copy Selected Line(s) from Right"
-msgstr ""
+msgstr "从右侧复制选中行"
 
 msgid "&Select Line Difference\tF4"
 msgstr "选中行内差异(&S)\tF4"
 
 msgid "Add this change to Substitution &Filters"
-msgstr ""
+msgstr "将此更改添加到替换筛选器(&F)"
 
 msgid "&Undo"
 msgstr "撤销(&U)"
@@ -78,10 +78,10 @@ msgid "&Go to...\tCtrl+G"
 msgstr "转到(&G)...\tCtrl+G"
 
 msgid "Go to Moved Line Between Left and Middle\tCtrl+Shift+G"
-msgstr ""
+msgstr "转到左和中之间的移动线\tCtrl+Shift+G"
 
 msgid "Go to Moved Line Between Middle and Right\tCtrl+Alt+G"
-msgstr ""
+msgstr "转到中和右之间的移动线\tCtrl+Alt+G"
 
 msgid "Op&en"
 msgstr "打开(&E)"
@@ -170,7 +170,7 @@ msgid "&Horizontal Wipe"
 msgstr "水平擦拭(&H)"
 
 msgid "&Rectangle Select"
-msgstr ""
+msgstr "矩形选择(&R)"
 
 msgid "&Set Background Color"
 msgstr "设置背景颜色(&S)"
@@ -179,7 +179,7 @@ msgid "&Vector Image Scaling"
 msgstr "矢量图形缩放 (&V)"
 
 msgid "Compare Extracted &Text From Image"
-msgstr ""
+msgstr "比较从图像中提取的文本(&T)"
 
 msgid "&File"
 msgstr "文件(&F)"
@@ -596,7 +596,7 @@ msgid "&Toggle All and 0-9 Lines\tCtrl+D"
 msgstr "在所有行与 0-9 行之间切换\tCtrl+D"
 
 msgid "&Invert (Hide Different Lines)"
-msgstr ""
+msgstr "反转 （隐藏不同的线） (&I)"
 
 msgid "&Lock Panes"
 msgstr "锁定窗格(&L)"
@@ -1018,7 +1018,7 @@ msgid "Automatically &scroll to first difference"
 msgstr "自动滚动到第一处差异(&S)"
 
 msgid "Automatically s&croll to first inline difference"
-msgstr ""
+msgstr "自动滚动到第一个内联差异(&C)"
 
 msgid "Cl&ose windows with 'Esc':"
 msgstr "按 'Esc' 关闭窗口(&O):"
@@ -1027,7 +1027,7 @@ msgid "&Automatically verify paths in Open-dialog"
 msgstr "“打开”对话框中自动验证路径(&A)"
 
 msgid "Single instance mode:"
-msgstr ""
+msgstr "单实例模式:"
 
 msgid "As&k when closing multiple windows"
 msgstr "关闭多个窗口时询问我(&K)"
@@ -1129,7 +1129,7 @@ msgid "&Apply"
 msgstr "应用(&A)"
 
 msgid "Line Filters"
-msgstr ""
+msgstr "行过滤器"
 
 msgid "Enable Line Filters"
 msgstr "忽略符合下列样式的行"
@@ -1144,19 +1144,19 @@ msgid "Remove"
 msgstr "删除"
 
 msgid "Substitution Filters"
-msgstr ""
+msgstr "替代过滤器"
 
 msgid "The changes that appear on the panels as the listed pairs below will be ignored or marked as insignificant. Patches are unaffected."
-msgstr ""
+msgstr "面板上所显示的下面列出的成对更改将被忽略或标记为不重要。补丁不受影响。"
 
 msgid "Enable"
-msgstr ""
+msgstr "启用"
 
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 msgid "Clear"
-msgstr ""
+msgstr "清除"
 
 msgid "Colors"
 msgstr "颜色"
@@ -1366,7 +1366,7 @@ msgid "Ignore blan&k lines"
 msgstr "忽略空行(&K)"
 
 msgid "Ignore c&omment differences"
-msgstr ""
+msgstr "忽略注释差异(&O)"
 
 msgid "E&nable moved block detection"
 msgstr "启用块移动检测(&N)"
@@ -1381,7 +1381,7 @@ msgid "Enable indent &heuristic"
 msgstr "启用启发式缩进(&H)"
 
 msgid "Completely unhighlight the ignored differences"
-msgstr ""
+msgstr "完全不高亮显示被忽略的差异"
 
 msgid "Editor"
 msgstr "编辑器"
@@ -1426,7 +1426,7 @@ msgid "&Rendering Mode:"
 msgstr "渲染模式(&R)"
 
 msgid "File Filters"
-msgstr ""
+msgstr "文件过滤器"
 
 msgid "Test..."
 msgstr "测试..."
@@ -1879,7 +1879,7 @@ msgid "&Enable image compare in folder compare"
 msgstr "在文件夹比较中启用图像比较(&E)"
 
 msgid "OCR result:"
-msgstr ""
+msgstr "OCR 结果:"
 
 msgid "&Hex View"
 msgstr "十六进制查看(&H)"
@@ -2119,7 +2119,7 @@ msgid "XML Files (*.xml)|*.xml|All Files (*.*)|*.*||"
 msgstr "XML 文件 (*.xml)|*.xml|所有文件 (*.*)|*.*||"
 
 msgid "File Type"
-msgstr ""
+msgstr "文件类型"
 
 msgid "Extension"
 msgstr "扩展名"
@@ -2233,7 +2233,7 @@ msgid "Untitled right"
 msgstr "未命名 右"
 
 msgid "Base File"
-msgstr ""
+msgstr "基础文件"
 
 msgid "Theirs File"
 msgstr "他们的文件"
@@ -2242,7 +2242,7 @@ msgid "Mine File"
 msgstr "我的文件"
 
 msgid "Original File"
-msgstr ""
+msgstr "原始文件"
 
 #, c-format
 msgid "Ln: %s  Col: %d/%d  Ch: %d/%d  EOL: %s"
@@ -2429,7 +2429,7 @@ msgstr ""
 
 #, c-format
 msgid "Plugin '%2' cannot pack your changes to the middle file back into '%1'.\n\nThe original file will not be changed.\n\nDo you want to save the unpacked version to another file?"
-msgstr ""
+msgstr "插件'%2'无法将对中间文件所做的更改打包回'%1'。\n\n原始文件将不会更改。\n\n是否将解包的版本保存到其他文件？"
 
 #, c-format
 msgid ""
@@ -3348,16 +3348,16 @@ msgstr ""
 "自动合并 (Ctrl+Alt+M)"
 
 msgid "\nFirst File"
-msgstr ""
+msgstr "\n第一个文件"
 
 msgid "\nNext File"
-msgstr ""
+msgstr "\n下一个文件"
 
 msgid "\nLast File"
-msgstr ""
+msgstr "\n最后一个文件"
 
 msgid "\nPrevious File"
-msgstr ""
+msgstr "\n上一个文件"
 
 msgid ""
 "The adapted unpacker is applied to both files (one file only needs the "
@@ -3408,7 +3408,7 @@ msgid "G&o to Line %1"
 msgstr "转到第 %1 行(&O)"
 
 msgid "Go to Moved Line\tCtrl+Shift+G"
-msgstr ""
+msgstr "转到移动线\tCtrl+Shift+G"
 
 msgid "Disabled"
 msgstr "禁用"
@@ -3593,32 +3593,32 @@ msgid "Rc: (%d, %d)  "
 msgstr ""
 
 msgid "<Edit here>"
-msgstr ""
+msgstr "<在此编辑>"
 
 msgid "No differences to select found"
-msgstr ""
+msgstr "未找到要选择的差异"
 
 msgid "No differences found to add as substitution filter"
-msgstr ""
+msgstr "找不到作为替换筛选器添加的差异"
 
 msgid "The pair is already present in the list of Substitution Filters"
-msgstr ""
+msgstr "该对已存在于替换筛选器列表中"
 
 msgid "Add this change to Substitution Filters?"
-msgstr ""
+msgstr "添加此变更到替代过滤器?"
 
 msgid "Text only"
-msgstr ""
+msgstr "仅文本"
 
 msgid "Line-by-line position and text"
-msgstr ""
+msgstr "逐行位置和文本"
 
 msgid "Word-by-word position and text"
-msgstr ""
+msgstr "逐字位置和文本"
 
 msgid "Allow only one instance to run"
 msgstr "只允许运行一个实例"
 
 msgid "Allow only one instance to run and wait for the instance to terminate"
-msgstr ""
+msgstr "只允许一个实例运行并等待实例终止"
 
